@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 190.112.103.215
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1729404414334
+  login: 1729399790671
+money: '0'
+last-account-name: Binder01
+logoutlocation:
+  world: e03a4fda-dc19-44d5-9dbf-28681fe6a119
+  world-name: Test mc
+  x: -1008.4422800277545
+  y: 86.5
+  z: -195.30108552496745
+  yaw: 79.8916015625
+  pitch: 22.64989471435547
+lastlocation:
+  world: e03a4fda-dc19-44d5-9dbf-28681fe6a119
+  world-name: Test mc
+  x: -735.5246134015098
+  y: 66.0
+  z: 266.03826239375326
+  yaw: 73.09181213378906
+  pitch: 21.300668716430664

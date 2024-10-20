@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 190.178.19.97
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1729404014631
+  login: 1729402724280
+money: '0'
+last-account-name: chocobro1305
+lastlocation:
+  world: e03a4fda-dc19-44d5-9dbf-28681fe6a119
+  world-name: Test mc
+  x: 6.368711317417607
+  y: 56.0
+  z: 99.69999998807907
+  yaw: -10.114990234375
+  pitch: 49.350250244140625
+logoutlocation:
+  world: e03a4fda-dc19-44d5-9dbf-28681fe6a119
+  world-name: Test mc
+  x: -1073.4342077683395
+  y: 94.0
+  z: -204.62477667007087
+  yaw: 129.807861328125
+  pitch: 15.600412368774414

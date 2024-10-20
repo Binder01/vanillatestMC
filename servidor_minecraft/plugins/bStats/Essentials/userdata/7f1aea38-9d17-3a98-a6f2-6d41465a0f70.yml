@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 90.75.218.170
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1729386909223
+  login: 1729354230156
+money: '0'
+last-account-name: Naidra7
+lastlocation:
+  world: e03a4fda-dc19-44d5-9dbf-28681fe6a119
+  world-name: Test mc
+  x: -943.6999999880791
+  y: 60.0
+  z: 240.48761215917895
+  yaw: -25.28997802734375
+  pitch: 90.0
+logoutlocation:
+  world: e03a4fda-dc19-44d5-9dbf-28681fe6a119
+  world-name: Test mc
+  x: -736.2503266965515
+  y: 70.0
+  z: 265.1844987993009
+  yaw: -40.7200927734375
+  pitch: 26.09999656677246

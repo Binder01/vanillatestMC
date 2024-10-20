@@ -1,0 +1,38 @@
+teleportenabled: true
+teleportauto: false
+godmode: false
+muted: false
+jailed: false
+ip-address: 190.112.103.213
+afk: false
+socialspy: false
+npc: false
+powertoolsenabled: true
+accepting-pay: true
+baltop-exempt: false
+timestamps:
+  lastteleport: 0
+  lastheal: 0
+  mute: 0
+  jail: 0
+  onlinejail: 0
+  logout: 1729382574224
+  login: 1729380806216
+money: '0'
+last-account-name: GTobares1
+logoutlocation:
+  world: e03a4fda-dc19-44d5-9dbf-28681fe6a119
+  world-name: Test mc
+  x: -1002.7714445640529
+  y: 86.5
+  z: -197.14230957798634
+  yaw: 126.99270629882812
+  pitch: 23.52876853942871
+lastlocation:
+  world: e03a4fda-dc19-44d5-9dbf-28681fe6a119
+  world-name: Test mc
+  x: 25.853071619128926
+  y: 66.26416937643383
+  z: 36.335901400465275
+  yaw: -33.94989013671875
+  pitch: 53.33241653442383
